@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34BCFA24-2BAF-45E8-8B53-E80693B4F27E}|Domain\\Domain.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\repportgenerator\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BCFA24-2BAF-45E8-8B53-E80693B4F27E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF911C9-508C-4F36-9710-37712926A03A}|Api\\Api.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\repportgenerator\\api\\controllers\\rpportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF911C9-508C-4F36-9710-37712926A03A}|Api\\Api.csproj|solutionrelative:api\\controllers\\rpportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF911C9-508C-4F36-9710-37712926A03A}|Api\\Api.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\repportgenerator\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF911C9-508C-4F36-9710-37712926A03A}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C24C05-D8F9-4027-A6F3-96188647B5A9}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\repportgenerator\\application\\job\\fetchorderjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C24C05-D8F9-4027-A6F3-96188647B5A9}|Application\\Application.csproj|solutionrelative:application\\job\\fetchorderjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C24C05-D8F9-4027-A6F3-96188647B5A9}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\repportgenerator\\application\\services\\excelreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C24C05-D8F9-4027-A6F3-96188647B5A9}|Application\\Application.csproj|solutionrelative:application\\services\\excelreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C24C05-D8F9-4027-A6F3-96188647B5A9}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\repportgenerator\\application\\jobs\\quartzhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C24C05-D8F9-4027-A6F3-96188647B5A9}|Application\\Application.csproj|solutionrelative:application\\jobs\\quartzhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C24C05-D8F9-4027-A6F3-96188647B5A9}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\repportgenerator\\application\\jobs\\singletonjobfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C24C05-D8F9-4027-A6F3-96188647B5A9}|Application\\Application.csproj|solutionrelative:application\\jobs\\singletonjobfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C24C05-D8F9-4027-A6F3-96188647B5A9}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\repportgenerator\\application\\jobs\\jobschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C24C05-D8F9-4027-A6F3-96188647B5A9}|Application\\Application.csproj|solutionrelative:application\\jobs\\jobschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF911C9-508C-4F36-9710-37712926A03A}|Api\\Api.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\repportgenerator\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFF911C9-508C-4F36-9710-37712926A03A}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExcelReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Application\\Services\\ExcelReportService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ExcelReportService.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Application\\Services\\ExcelReportService.cs",
+              "RelativeToolTip": "Application\\Services\\ExcelReportService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAmwGEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:28:31.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuartzHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Application\\Jobs\\QuartzHostedService.cs",
+              "RelativeDocumentMoniker": "Application\\Jobs\\QuartzHostedService.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Application\\Jobs\\QuartzHostedService.cs",
+              "RelativeToolTip": "Application\\Jobs\\QuartzHostedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:00:00.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Application\\Jobs\\JobSchedule.cs",
+              "RelativeDocumentMoniker": "Application\\Jobs\\JobSchedule.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Application\\Jobs\\JobSchedule.cs",
+              "RelativeToolTip": "Application\\Jobs\\JobSchedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:59:40.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SingletonJobFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Application\\Jobs\\SingletonJobFactory.cs",
+              "RelativeDocumentMoniker": "Application\\Jobs\\SingletonJobFactory.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Application\\Jobs\\SingletonJobFactory.cs",
+              "RelativeToolTip": "Application\\Jobs\\SingletonJobFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:59:07.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FetchOrderJob.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Application\\Job\\FetchOrderJob.cs",
+              "RelativeDocumentMoniker": "Application\\Job\\FetchOrderJob.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Application\\Job\\FetchOrderJob.cs",
+              "RelativeToolTip": "Application\\Job\\FetchOrderJob.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAmwHsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:44:31.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RpportController.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Api\\Controllers\\RpportController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\RpportController.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Api\\Controllers\\RpportController.cs",
+              "RelativeToolTip": "Api\\Controllers\\RpportController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:22:05.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T16:23:51.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:45:18.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\RepportGenerator\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:04:28.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

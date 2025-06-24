@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61AEA572-4C22-4D15-9C7A-86933221F4DA}|Api\\Api.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderpayment\\api\\controllers\\orderpaymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AEA572-4C22-4D15-9C7A-86933221F4DA}|Api\\Api.csproj|solutionrelative:api\\controllers\\orderpaymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AF7FB-0EFD-4BD1-B2AB-D869FBDCEE11}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderpayment\\application\\communication\\orderpaymenthttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47AF7FB-0EFD-4BD1-B2AB-D869FBDCEE11}|Application\\Application.csproj|solutionrelative:application\\communication\\orderpaymenthttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AEA572-4C22-4D15-9C7A-86933221F4DA}|Api\\Api.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderpayment\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61AEA572-4C22-4D15-9C7A-86933221F4DA}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AEA572-4C22-4D15-9C7A-86933221F4DA}|Api\\Api.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderpayment\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AEA572-4C22-4D15-9C7A-86933221F4DA}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AF7FB-0EFD-4BD1-B2AB-D869FBDCEE11}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderpayment\\application\\services\\orderpaymentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47AF7FB-0EFD-4BD1-B2AB-D869FBDCEE11}|Application\\Application.csproj|solutionrelative:application\\services\\orderpaymentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2130013-AA8E-4053-B127-A04BA8347F9A}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderpayment\\infrastructure\\interfaces\\iorderpaymenthttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2130013-AA8E-4053-B127-A04BA8347F9A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interfaces\\iorderpaymenthttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2130013-AA8E-4053-B127-A04BA8347F9A}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderpayment\\infrastructure\\interfaces\\iorderpaymentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2130013-AA8E-4053-B127-A04BA8347F9A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interfaces\\iorderpaymentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2130013-AA8E-4053-B127-A04BA8347F9A}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderpayment\\infrastructure\\kafkainframessagerie\\config\\kafkaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2130013-AA8E-4053-B127-A04BA8347F9A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\kafkainframessagerie\\config\\kafkaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2130013-AA8E-4053-B127-A04BA8347F9A}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderpayment\\infrastructure\\kafkainframessagerie\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2130013-AA8E-4053-B127-A04BA8347F9A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\kafkainframessagerie\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2130013-AA8E-4053-B127-A04BA8347F9A}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderpayment\\infrastructure\\kafkainframessagerie\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2130013-AA8E-4053-B127-A04BA8347F9A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\kafkainframessagerie\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2130013-AA8E-4053-B127-A04BA8347F9A}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderpayment\\infrastructure\\model\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2130013-AA8E-4053-B127-A04BA8347F9A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\model\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Imad.ETTAMEN\\AppData\\Local\\SourceServer\\bb42f1b9ebc7b68d8c3a19da824be1d2a4252aae7033748971a998b58b99d305\\OrderPayment\\Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderPaymentHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Application\\Communication\\OrderPaymentHttpClient.cs",
+              "RelativeDocumentMoniker": "Application\\Communication\\OrderPaymentHttpClient.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Application\\Communication\\OrderPaymentHttpClient.cs",
+              "RelativeToolTip": "Application\\Communication\\OrderPaymentHttpClient.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:59:36.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:49:40.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T09:54:59.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderPaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Api\\Controllers\\OrderPaymentController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\OrderPaymentController.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Api\\Controllers\\OrderPaymentController.cs",
+              "RelativeToolTip": "Api\\Controllers\\OrderPaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:28:41.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderPaymentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Application\\Services\\OrderPaymentValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\OrderPaymentValidator.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Application\\Services\\OrderPaymentValidator.cs",
+              "RelativeToolTip": "Application\\Services\\OrderPaymentValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:32:39.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderPaymentHttp.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Infrastructure\\Interfaces\\IOrderPaymentHttp.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IOrderPaymentHttp.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Infrastructure\\Interfaces\\IOrderPaymentHttp.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IOrderPaymentHttp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:57:27.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderPaymentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Infrastructure\\Interfaces\\IOrderPaymentValidator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IOrderPaymentValidator.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Infrastructure\\Interfaces\\IOrderPaymentValidator.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IOrderPaymentValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:32:03.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KafkaConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Infrastructure\\KafkaInfraMessagerie\\Config\\KafkaConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\KafkaInfraMessagerie\\Config\\KafkaConfig.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Infrastructure\\KafkaInfraMessagerie\\Config\\KafkaConfig.cs",
+              "RelativeToolTip": "Infrastructure\\KafkaInfraMessagerie\\Config\\KafkaConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:45:38.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Infrastructure\\KafkaInfraMessagerie\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\KafkaInfraMessagerie\\KafkaConsumer.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Infrastructure\\KafkaInfraMessagerie\\KafkaConsumer.cs",
+              "RelativeToolTip": "Infrastructure\\KafkaInfraMessagerie\\KafkaConsumer.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:45:27.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Infrastructure\\KafkaInfraMessagerie\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\KafkaInfraMessagerie\\KafkaProducer.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Infrastructure\\KafkaInfraMessagerie\\KafkaProducer.cs",
+              "RelativeToolTip": "Infrastructure\\KafkaInfraMessagerie\\KafkaProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:06:16.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Infrastructure\\Model\\OrderModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Model\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderPayment\\Infrastructure\\Model\\OrderModel.cs",
+              "RelativeToolTip": "Infrastructure\\Model\\OrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:58:06.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\AppData\\Local\\SourceServer\\bb42f1b9ebc7b68d8c3a19da824be1d2a4252aae7033748971a998b58b99d305\\OrderPayment\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\bb42f1b9ebc7b68d8c3a19da824be1d2a4252aae7033748971a998b58b99d305\\OrderPayment\\Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\AppData\\Local\\SourceServer\\bb42f1b9ebc7b68d8c3a19da824be1d2a4252aae7033748971a998b58b99d305\\OrderPayment\\Api\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\bb42f1b9ebc7b68d8c3a19da824be1d2a4252aae7033748971a998b58b99d305\\OrderPayment\\Api\\Program.cs [Read Only]",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAlwBUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:20:43.737Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

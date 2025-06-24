@@ -1,0 +1,35 @@
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\OrderPayment\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\OrderPayment\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\OrderPayment\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\OrderPayment\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\OrderPayment\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\OrderPayment\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\OrderPayment\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\OrderPayment\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\OrderPayment\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\OrderPayment\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\OrderPayment\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe\OrderPayment\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe\OrderPayment\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe\OrderPayment\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe\OrderPayment\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe\OrderPayment\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe\OrderPayment\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe\OrderPayment\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe\OrderPayment\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe\OrderPayment\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe\OrderPayment\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe\OrderPayment\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe\OrderPayment\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe _cons\OrderPayment\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe _cons\OrderPayment\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe _cons\OrderPayment\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe _cons\OrderPayment\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe _cons\OrderPayment\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe _cons\OrderPayment\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe _cons\OrderPayment\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe _cons\OrderPayment\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe _cons\OrderPayment\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe _cons\OrderPayment\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe _cons\OrderPayment\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\pfe _cons\OrderPayment\Domain\obj\Debug\net8.0\ref\Domain.dll

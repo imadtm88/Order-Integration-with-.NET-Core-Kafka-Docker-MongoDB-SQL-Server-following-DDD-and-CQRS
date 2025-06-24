@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\infrastructure\\kafkainframessagerie\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\kafkainframessagerie\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDFA735-7E3C-4BF0-9AEF-09D0230C68CD}|Api\\Api.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DDFA735-7E3C-4BF0-9AEF-09D0230C68CD}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDFA735-7E3C-4BF0-9AEF-09D0230C68CD}|Api\\Api.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDFA735-7E3C-4BF0-9AEF-09D0230C68CD}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\infrastructure\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\infrastructure\\kafkainframessagerie\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\kafkainframessagerie\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\infrastructure\\kafkainframessagerie\\config\\kafkaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\kafkainframessagerie\\config\\kafkaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\infrastructure\\data\\orderintegratordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\orderintegratordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\infrastructure\\model\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\model\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\infrastructure\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\infrastructure\\interfaces\\iorderintegrationhttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interfaces\\iorderintegrationhttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\infrastructure\\data\\datacontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\datacontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3C307E-6025-4B10-BAE8-D98EEB65E3CB}|Domain\\Domain.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\domain\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3C307E-6025-4B10-BAE8-D98EEB65E3CB}|Domain\\Domain.csproj|solutionrelative:domain\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3C307E-6025-4B10-BAE8-D98EEB65E3CB}|Domain\\Domain.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\domain\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3C307E-6025-4B10-BAE8-D98EEB65E3CB}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45C48D9-9BA0-439E-BD3A-80EE72992182}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\application\\communication\\orderintegrationhttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45C48D9-9BA0-439E-BD3A-80EE72992182}|Application\\Application.csproj|solutionrelative:application\\communication\\orderintegrationhttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDFA735-7E3C-4BF0-9AEF-09D0230C68CD}|Api\\Api.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\api\\controllers\\orderintegrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDFA735-7E3C-4BF0-9AEF-09D0230C68CD}|Api\\Api.csproj|solutionrelative:api\\controllers\\orderintegrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDFA735-7E3C-4BF0-9AEF-09D0230C68CD}|Api\\Api.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DDFA735-7E3C-4BF0-9AEF-09D0230C68CD}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45C48D9-9BA0-439E-BD3A-80EE72992182}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E45C48D9-9BA0-439E-BD3A-80EE72992182}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\infrastructure\\migrations\\20240703112156_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240703112156_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe _cons\\orderintegrator\\infrastructure\\migrations\\20240703112521_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E343C611-388E-4831-9453-4BD4D3140767}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240703112521_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderIntegratorDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Data\\OrderIntegratorDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\OrderIntegratorDbContext.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Data\\OrderIntegratorDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\OrderIntegratorDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:52:35.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KafkaConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\KafkaInfraMessagerie\\Config\\KafkaConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\KafkaInfraMessagerie\\Config\\KafkaConfig.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\KafkaInfraMessagerie\\Config\\KafkaConfig.cs",
+              "RelativeToolTip": "Infrastructure\\KafkaInfraMessagerie\\Config\\KafkaConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:32:42.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\KafkaInfraMessagerie\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\KafkaInfraMessagerie\\KafkaConsumer.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\KafkaInfraMessagerie\\KafkaConsumer.cs",
+              "RelativeToolTip": "Infrastructure\\KafkaInfraMessagerie\\KafkaConsumer.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:26:10.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Model\\OrderModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Model\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Model\\OrderModel.cs",
+              "RelativeToolTip": "Infrastructure\\Model\\OrderModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:26:43.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:01:17.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T10:47:48.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\KafkaInfraMessagerie\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\KafkaInfraMessagerie\\KafkaProducer.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\KafkaInfraMessagerie\\KafkaProducer.cs",
+              "RelativeToolTip": "Infrastructure\\KafkaInfraMessagerie\\KafkaProducer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:26:20.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:38:16.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:41:27.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderIntegrationHttp.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Interfaces\\IOrderIntegrationHttp.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IOrderIntegrationHttp.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Interfaces\\IOrderIntegrationHttp.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IOrderIntegrationHttp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:45:53.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Data\\DataContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\DataContextFactory.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Data\\DataContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\DataContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:16:25.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Domain\\Enum\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enum\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Domain\\Enum\\OrderStatus.cs",
+              "RelativeToolTip": "Domain\\Enum\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:08:34.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Domain\\Entity\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Order.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Domain\\Entity\\Order.cs",
+              "RelativeToolTip": "Domain\\Entity\\Order.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:17:07.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderIntegrationHttp.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Application\\Communication\\OrderIntegrationHttp.cs",
+              "RelativeDocumentMoniker": "Application\\Communication\\OrderIntegrationHttp.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Application\\Communication\\OrderIntegrationHttp.cs",
+              "RelativeToolTip": "Application\\Communication\\OrderIntegrationHttp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:43:27.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderIntegrationController.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Api\\Controllers\\OrderIntegrationController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\OrderIntegrationController.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Api\\Controllers\\OrderIntegrationController.cs",
+              "RelativeToolTip": "Api\\Controllers\\OrderIntegrationController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:52:41.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T13:52:48.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T13:52:44.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240703112156_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Migrations\\20240703112156_FirstMigration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240703112156_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Migrations\\20240703112156_FirstMigration.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240703112156_FirstMigration.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:21:57.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240703112521_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Migrations\\20240703112521_SecondMigration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240703112521_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\pfe _cons\\OrderIntegrator\\Infrastructure\\Migrations\\20240703112521_SecondMigration.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240703112521_SecondMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:25:21.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

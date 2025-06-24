@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD8F12F-BF2C-4348-937A-6B0E15FA8418}|Api\\Api.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DD8F12F-BF2C-4348-937A-6B0E15FA8418}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD8F12F-BF2C-4348-937A-6B0E15FA8418}|Api\\Api.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0DD8F12F-BF2C-4348-937A-6B0E15FA8418}|Api\\Api.csproj|solutionrelative:api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FCFA8-636C-45E6-8CCA-FF409207A2A3}|docker-compose.dcproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C60FCFA8-636C-45E6-8CCA-FF409207A2A3}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5B7997-3B43-4FB2-8A64-2C6B595A9C30}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\application\\handlers\\uploadexcelfileapplication\\services\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5B7997-3B43-4FB2-8A64-2C6B595A9C30}|Application\\Application.csproj|solutionrelative:application\\handlers\\uploadexcelfileapplication\\services\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1743444E-CE75-4C6B-ACDB-F2810FA42A89}|Domain\\Domain.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\domain\\uploadexcelfiledomain\\entities\\uploadedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1743444E-CE75-4C6B-ACDB-F2810FA42A89}|Domain\\Domain.csproj|solutionrelative:domain\\uploadexcelfiledomain\\entities\\uploadedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5B7997-3B43-4FB2-8A64-2C6B595A9C30}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\application\\communication\\orderhttpsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5B7997-3B43-4FB2-8A64-2C6B595A9C30}|Application\\Application.csproj|solutionrelative:application\\communication\\orderhttpsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5B7997-3B43-4FB2-8A64-2C6B595A9C30}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\application\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5B7997-3B43-4FB2-8A64-2C6B595A9C30}|Application\\Application.csproj|solutionrelative:application\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD8F12F-BF2C-4348-937A-6B0E15FA8418}|Api\\Api.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD8F12F-BF2C-4348-937A-6B0E15FA8418}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD8F12F-BF2C-4348-937A-6B0E15FA8418}|Api\\Api.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\api\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD8F12F-BF2C-4348-937A-6B0E15FA8418}|Api\\Api.csproj|solutionrelative:api\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1743444E-CE75-4C6B-ACDB-F2810FA42A89}|Domain\\Domain.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1743444E-CE75-4C6B-ACDB-F2810FA42A89}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F09D583-A070-4FCD-81BF-02EDBFA4A005}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\infrastructure\\uploadexcelfileinfra\\repositories\\filestoragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F09D583-A070-4FCD-81BF-02EDBFA4A005}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\uploadexcelfileinfra\\repositories\\filestoragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F09D583-A070-4FCD-81BF-02EDBFA4A005}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\infrastructure\\uploadexcelfileinfra\\interfaces\\ifileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F09D583-A070-4FCD-81BF-02EDBFA4A005}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\uploadexcelfileinfra\\interfaces\\ifileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F09D583-A070-4FCD-81BF-02EDBFA4A005}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\infrastructure\\exceltoorderconverterinfra\\interfaces\\iexceltoorderconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F09D583-A070-4FCD-81BF-02EDBFA4A005}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\exceltoorderconverterinfra\\interfaces\\iexceltoorderconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F09D583-A070-4FCD-81BF-02EDBFA4A005}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\infrastructure\\excelfilevalidationinfra\\interfaces\\iexcelfilevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F09D583-A070-4FCD-81BF-02EDBFA4A005}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\excelfilevalidationinfra\\interfaces\\iexcelfilevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1743444E-CE75-4C6B-ACDB-F2810FA42A89}|Domain\\Domain.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\domain\\uploadexcelfiledomain\\repositories\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1743444E-CE75-4C6B-ACDB-F2810FA42A89}|Domain\\Domain.csproj|solutionrelative:domain\\uploadexcelfiledomain\\repositories\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1743444E-CE75-4C6B-ACDB-F2810FA42A89}|Domain\\Domain.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\domain\\entities\\excelrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1743444E-CE75-4C6B-ACDB-F2810FA42A89}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\excelrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5B7997-3B43-4FB2-8A64-2C6B595A9C30}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\application\\handlers\\exceltoorderconverterapplication\\services\\exceltoorderconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5B7997-3B43-4FB2-8A64-2C6B595A9C30}|Application\\Application.csproj|solutionrelative:application\\handlers\\exceltoorderconverterapplication\\services\\exceltoorderconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5B7997-3B43-4FB2-8A64-2C6B595A9C30}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\pfe_akka\\pfe _cons\\excelfilevalidator\\application\\handlers\\excelfilevalidationapplication\\services\\excelfilevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5B7997-3B43-4FB2-8A64-2C6B595A9C30}|Application\\Application.csproj|solutionrelative:application\\handlers\\excelfilevalidationapplication\\services\\excelfilevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Api\\Dockerfile",
+              "RelativeToolTip": "Api\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-29T12:47:04.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExcelFileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Application\\Handlers\\ExcelFileValidationApplication\\Services\\ExcelFileValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\ExcelFileValidationApplication\\Services\\ExcelFileValidator.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Application\\Handlers\\ExcelFileValidationApplication\\Services\\ExcelFileValidator.cs",
+              "RelativeToolTip": "Application\\Handlers\\ExcelFileValidationApplication\\Services\\ExcelFileValidator.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAQwGcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:15:37.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderHttpSender.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Application\\Communication\\OrderHttpSender.cs",
+              "RelativeDocumentMoniker": "Application\\Communication\\OrderHttpSender.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Application\\Communication\\OrderHttpSender.cs",
+              "RelativeToolTip": "Application\\Communication\\OrderHttpSender.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwA8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:09:17.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:06:32.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileUploadController.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Api\\Controllers\\FileUploadController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\FileUploadController.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Api\\Controllers\\FileUploadController.cs",
+              "RelativeToolTip": "Api\\Controllers\\FileUploadController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:30:38.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Application\\Handlers\\UploadExcelFileApplication\\Services\\FileUploadService.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\UploadExcelFileApplication\\Services\\FileUploadService.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Application\\Handlers\\UploadExcelFileApplication\\Services\\FileUploadService.cs",
+              "RelativeToolTip": "Application\\Handlers\\UploadExcelFileApplication\\Services\\FileUploadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:03:26.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExcelToOrderConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Application\\Handlers\\ExcelToOrderConverterApplication\\Services\\ExcelToOrderConverter.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\ExcelToOrderConverterApplication\\Services\\ExcelToOrderConverter.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Application\\Handlers\\ExcelToOrderConverterApplication\\Services\\ExcelToOrderConverter.cs",
+              "RelativeToolTip": "Application\\Handlers\\ExcelToOrderConverterApplication\\Services\\ExcelToOrderConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:50:48.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Application\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Application\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "Application\\DTO\\OrderDTO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:21:14.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:52:44.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T10:20:35.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-29T12:47:23.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExcelRow.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Domain\\Entities\\ExcelRow.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ExcelRow.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Domain\\Entities\\ExcelRow.cs",
+              "RelativeToolTip": "Domain\\Entities\\ExcelRow.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:01:30.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Domain\\UploadExcelFileDomain\\Repositories\\IFileStorage.cs",
+              "RelativeDocumentMoniker": "Domain\\UploadExcelFileDomain\\Repositories\\IFileStorage.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Domain\\UploadExcelFileDomain\\Repositories\\IFileStorage.cs",
+              "RelativeToolTip": "Domain\\UploadExcelFileDomain\\Repositories\\IFileStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:27:32.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UploadedFile.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Domain\\UploadExcelFileDomain\\Entities\\UploadedFile.cs",
+              "RelativeDocumentMoniker": "Domain\\UploadExcelFileDomain\\Entities\\UploadedFile.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Domain\\UploadExcelFileDomain\\Entities\\UploadedFile.cs",
+              "RelativeToolTip": "Domain\\UploadExcelFileDomain\\Entities\\UploadedFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:17:28.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IExcelFileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Infrastructure\\ExcelFileValidationInfra\\Interfaces\\IExcelFileValidator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ExcelFileValidationInfra\\Interfaces\\IExcelFileValidator.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Infrastructure\\ExcelFileValidationInfra\\Interfaces\\IExcelFileValidator.cs",
+              "RelativeToolTip": "Infrastructure\\ExcelFileValidationInfra\\Interfaces\\IExcelFileValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:12:21.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IExcelToOrderConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Infrastructure\\ExcelToOrderConverterInfra\\Interfaces\\IExcelToOrderConverter.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ExcelToOrderConverterInfra\\Interfaces\\IExcelToOrderConverter.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Infrastructure\\ExcelToOrderConverterInfra\\Interfaces\\IExcelToOrderConverter.cs",
+              "RelativeToolTip": "Infrastructure\\ExcelToOrderConverterInfra\\Interfaces\\IExcelToOrderConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:49:29.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFileUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Infrastructure\\UploadExcelFileInfra\\Interfaces\\IFileUploadService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UploadExcelFileInfra\\Interfaces\\IFileUploadService.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Infrastructure\\UploadExcelFileInfra\\Interfaces\\IFileUploadService.cs",
+              "RelativeToolTip": "Infrastructure\\UploadExcelFileInfra\\Interfaces\\IFileUploadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:54:35.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileStorageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Infrastructure\\UploadExcelFileInfra\\Repositories\\FileStorageRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UploadExcelFileInfra\\Repositories\\FileStorageRepository.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\PFE_AKKA\\pfe _cons\\ExcelFileValidator\\Infrastructure\\UploadExcelFileInfra\\Repositories\\FileStorageRepository.cs",
+              "RelativeToolTip": "Infrastructure\\UploadExcelFileInfra\\Repositories\\FileStorageRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAmwDcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:08:18.888Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

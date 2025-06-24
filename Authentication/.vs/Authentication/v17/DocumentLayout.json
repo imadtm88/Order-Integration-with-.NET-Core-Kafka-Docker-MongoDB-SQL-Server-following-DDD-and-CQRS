@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5FFDE7-EA32-4298-B90B-39026FC5AB56}|API\\API.csproj|c:\\users\\imad.ettamen\\source\\repos\\authentication\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5FFDE7-EA32-4298-B90B-39026FC5AB56}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5FFDE7-EA32-4298-B90B-39026FC5AB56}|API\\API.csproj|c:\\users\\imad.ettamen\\source\\repos\\authentication\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5FFDE7-EA32-4298-B90B-39026FC5AB56}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5FFDE7-EA32-4298-B90B-39026FC5AB56}|API\\API.csproj|c:\\users\\imad.ettamen\\source\\repos\\authentication\\api\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5FFDE7-EA32-4298-B90B-39026FC5AB56}|API\\API.csproj|solutionrelative:api\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5FFDE7-EA32-4298-B90B-39026FC5AB56}|API\\API.csproj|c:\\users\\imad.ettamen\\source\\repos\\authentication\\api\\migrations\\20240708102743_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5FFDE7-EA32-4298-B90B-39026FC5AB56}|API\\API.csproj|solutionrelative:api\\migrations\\20240708102743_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5FFDE7-EA32-4298-B90B-39026FC5AB56}|API\\API.csproj|c:\\users\\imad.ettamen\\source\\repos\\authentication\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF5FFDE7-EA32-4298-B90B-39026FC5AB56}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5FFDE7-EA32-4298-B90B-39026FC5AB56}|API\\API.csproj|c:\\users\\imad.ettamen\\source\\repos\\authentication\\api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5FFDE7-EA32-4298-B90B-39026FC5AB56}|API\\API.csproj|solutionrelative:api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5FFDE7-EA32-4298-B90B-39026FC5AB56}|API\\API.csproj|c:\\users\\imad.ettamen\\source\\repos\\authentication\\api\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5FFDE7-EA32-4298-B90B-39026FC5AB56}|API\\API.csproj|solutionrelative:api\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240708102743_FirstMig.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\API\\Migrations\\20240708102743_FirstMig.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20240708102743_FirstMig.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\API\\Migrations\\20240708102743_FirstMig.cs",
+              "RelativeToolTip": "API\\Migrations\\20240708102743_FirstMig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:27:44.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:05:47.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:05:12.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T10:04:05.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:03:38.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\API\\DTOs\\UserRegistrationDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\UserRegistrationDto.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\API\\DTOs\\UserRegistrationDto.cs",
+              "RelativeToolTip": "API\\DTOs\\UserRegistrationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:02:59.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\API\\Model\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "API\\Model\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\source\\repos\\Authentication\\API\\Model\\ApplicationUser.cs",
+              "RelativeToolTip": "API\\Model\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:02:23.408Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

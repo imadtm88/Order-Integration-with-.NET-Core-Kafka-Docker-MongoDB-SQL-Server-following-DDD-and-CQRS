@@ -1,0 +1,191 @@
+[
+  {
+    "CustomerOrderRef": {
+      "Type": 2,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": true,
+      "IsText": false,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": true
+    },
+    "CreationDate": {
+      "Type": 2,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": true,
+      "IsText": false,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": true
+    },
+    "CustomersReference": {
+      "Type": 3,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": false,
+      "IsText": true,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": false
+    },
+    "CustomerNumber": {
+      "Type": 3,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": false,
+      "IsText": true,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": false
+    },
+    "LastName": {
+      "Type": 3,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": false,
+      "IsText": true,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": false
+    },
+    "FirstName": {
+      "Type": 3,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": false,
+      "IsText": true,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": false
+    },
+    "ShippingAddress1": {
+      "Type": 3,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": false,
+      "IsText": true,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": false
+    },
+    "ShippingZipCode": {
+      "Type": 2,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": true,
+      "IsText": false,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": true
+    },
+    "ShippingCity": {
+      "Type": 3,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": false,
+      "IsText": true,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": false
+    },
+    "ShippingCountry": {
+      "Type": 3,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": false,
+      "IsText": true,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": false
+    },
+    "PhoneNumber": {
+      "Type": 3,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": false,
+      "IsText": true,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": false
+    },
+    "Email": {
+      "Type": 3,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": false,
+      "IsText": true,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": false
+    },
+    "ProductId": {
+      "Type": 3,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": false,
+      "IsText": true,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": false
+    },
+    "PriceWithoutTax": {
+      "Type": 2,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": true,
+      "IsText": false,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": true
+    },
+    "Quantity": {
+      "Type": 2,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": true,
+      "IsText": false,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": true
+    },
+    "SellerID": {
+      "Type": 2,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": true,
+      "IsText": false,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": true
+    },
+    "OfferID": {
+      "Type": 3,
+      "IsBlank": false,
+      "IsBoolean": false,
+      "IsNumber": false,
+      "IsText": true,
+      "IsError": false,
+      "IsDateTime": false,
+      "IsTimeSpan": false,
+      "IsUnifiedNumber": false
+    }
+  }
+]
